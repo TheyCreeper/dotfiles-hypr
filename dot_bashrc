@@ -6,6 +6,9 @@
 
 alias ls='ls --color=auto'
 alias grep='grep --color=auto'
+alias la='ls -la'
+alias clr="clear"
+alias cma='chezmoi apply'
 
 fastfetch
 PS1='\w > '
