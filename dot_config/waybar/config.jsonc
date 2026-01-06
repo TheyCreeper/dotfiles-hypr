@@ -41,11 +41,10 @@
     "memory",
     "cpu",
     "clock",
+    "custom/power",
     "custom/notification",
     "custom/padd"
   ],
-
-  // sourced from modules based on config.ctl //
 
   "custom/led": {
     "format": "<span color='#021c18'>󰍿</span> <span color='#313436'></span> ",
@@ -149,11 +148,9 @@
   },
 
   "custom/power": {
-    "format": "@{}",
-    "rotate": 0,
-    "on-click": "ags -t ControlPanel",
-    "on-click-right": "pkill ags",
-    "tooltip": true
+    "format": "⏻",
+    "tooltip": false,
+    "on-click": "wlogout"
   },
 
   "custom/spacer": {
