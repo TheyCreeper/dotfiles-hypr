@@ -15,6 +15,7 @@ alias napply='sudo nixos-rebuild switch --upgrade'
 alias ngc='sudo nix-collect-garbage -d --delete-older-than 10d'
 alias lff=$'lf -command \'set hidden true\'' 
 alias fastfetch='fastfetch --logo-type small --logo arch'
+alias e='exit'
 
 fastfetch
 PS1='\w > '
