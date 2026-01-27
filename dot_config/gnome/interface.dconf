@@ -1,0 +1,188 @@
+[TextEditor]
+last-save-directory='file:///mnt/alpha/video/Stories/More%20in%20common%20than%20we%20thought'
+
+[control-center]
+last-panel='background'
+window-state=(980, 640, false)
+
+[desktop/a11y/applications]
+screen-reader-enabled=false
+
+[desktop/app-folders]
+folder-children=['System', 'Utilities', 'YaST', 'Pardus']
+
+[desktop/app-folders/folders/Pardus]
+categories=['X-Pardus-Apps']
+name='X-Pardus-Apps.directory'
+translate=true
+
+[desktop/app-folders/folders/System]
+apps=['org.gnome.baobab.desktop', 'org.gnome.DiskUtility.desktop', 'org.gnome.Logs.desktop', 'org.gnome.SystemMonitor.desktop']
+name='X-GNOME-Shell-System.directory'
+translate=true
+
+[desktop/app-folders/folders/Utilities]
+apps=['org.gnome.Decibels.desktop', 'org.gnome.Connections.desktop', 'org.gnome.Papers.desktop', 'org.gnome.font-viewer.desktop', 'org.gnome.Loupe.desktop']
+name='X-GNOME-Shell-Utilities.directory'
+translate=true
+
+[desktop/app-folders/folders/YaST]
+categories=['X-SuSE-YaST']
+name='suse-yast.directory'
+translate=true
+
+[desktop/background]
+color-shading-type='solid'
+picture-options='zoom'
+picture-uri='file:///run/current-system/sw/share/backgrounds/gnome/blobs-l.svg'
+picture-uri-dark='file:///run/current-system/sw/share/backgrounds/gnome/blobs-d.svg'
+primary-color='#241f31'
+secondary-color='#000000'
+
+[desktop/input-sources]
+sources=[('xkb', 'us')]
+xkb-options=@as []
+
+[desktop/interface]
+color-scheme='prefer-dark'
+cursor-blink=true
+cursor-blink-time=1000
+cursor-size=24
+cursor-theme='breeze_cursors'
+document-font-name='Noto Sans  10'
+enable-animations=true
+enable-hot-corners=false
+font-name='Noto Sans  10'
+icon-theme='breeze-dark'
+monospace-font-name='Hack  10'
+scaling-factor=uint32 1
+text-scaling-factor=1.0
+toolbar-style='text'
+
+[desktop/notifications]
+application-children=['vesktop', 'brave-browser', 'gnome-about-panel', 'org-telegram-desktop', 'gnome-power-panel']
+
+[desktop/notifications/application/brave-browser]
+application-id='brave-browser.desktop'
+
+[desktop/notifications/application/gnome-about-panel]
+application-id='gnome-about-panel.desktop'
+
+[desktop/notifications/application/gnome-power-panel]
+application-id='gnome-power-panel.desktop'
+
+[desktop/notifications/application/org-telegram-desktop]
+application-id='org.telegram.desktop.desktop'
+
+[desktop/notifications/application/vesktop]
+application-id='vesktop.desktop'
+
+[desktop/peripherals/mouse]
+accel-profile='flat'
+speed=-0.23404255319148937
+
+[desktop/peripherals/touchpad]
+two-finger-scrolling-enabled=true
+
+[desktop/screensaver]
+color-shading-type='solid'
+picture-options='zoom'
+picture-uri='file:///run/current-system/sw/share/backgrounds/gnome/blobs-l.svg'
+primary-color='#241f31'
+secondary-color='#000000'
+
+[desktop/sound]
+theme-name='ocean'
+
+[desktop/wm/preferences]
+button-layout='icon:minimize,maximize,close'
+
+[evolution-data-server]
+migrated=true
+
+[mutter]
+workspaces-only-on-primary=true
+
+[nautilus/preferences]
+default-folder-viewer='icon-view'
+migrated-gtk-settings=true
+
+[nautilus/window-state]
+initial-size=(890, 550)
+initial-size-file-chooser=(890, 550)
+maximized=true
+
+[portal/filechooser/org.chromium.Chromium]
+last-folder-path='/home/theycreeper/Documents'
+
+[settings-daemon/plugins/color]
+night-light-schedule-automatic=false
+
+[settings-daemon/plugins/housekeeping]
+donation-reminder-last-shown=int64 1769378601218321
+
+[shell]
+app-picker-layout=[{'org.gnome.Contacts.desktop': <{'position': <0>}>, 'org.gnome.Weather.desktop': <{'position': <1>}>, 'org.gnome.clocks.desktop': <{'position': <2>}>, 'org.gnome.Maps.desktop': <{'position': <3>}>, 'org.gnome.SimpleScan.desktop': <{'position': <4>}>, 'org.gnome.Settings.desktop': <{'position': <5>}>, 'org.gnome.Showtime.desktop': <{'position': <6>}>, 'org.gnome.Snapshot.desktop': <{'position': <7>}>, 'org.gnome.Characters.desktop': <{'position': <8>}>, 'Utilities': <{'position': <9>}>, 'System': <{'position': <10>}>, 'org.kde.ark.desktop': <{'position': <11>}>, 'org.gnome.Console.desktop': <{'position': <12>}>, 'com.brave.Browser.desktop': <{'position': <13>}>, 'org.gnome.Tour.desktop': <{'position': <14>}>, 'brave-browser.desktop': <{'position': <15>}>, 'org.gnome.Yelp.desktop': <{'position': <16>}>, 'org.gnome.Calculator.desktop': <{'position': <17>}>, 'org.kde.drkonqi.coredump.gui.desktop': <{'position': <18>}>, 'org.kde.discover.desktop': <{'position': <19>}>, 'org.kde.dolphin.desktop': <{'position': <20>}>, 'org.kde.elisa.desktop': <{'position': <21>}>, 'org.gnome.Extensions.desktop': <{'position': <22>}>}, {'org.kde.gwenview.desktop': <{'position': <0>}>, 'org.kde.kate.desktop': <{'position': <1>}>, 'kdesystemsettings.desktop': <{'position': <2>}>, 'org.kde.konsole.desktop': <{'position': <3>}>, 'org.kde.kwalletmanager.desktop': <{'position': <4>}>, 'org.kde.kwrite.desktop': <{'position': <5>}>, 'cups.desktop': <{'position': <6>}>, 'nixos-manual.desktop': <{'position': <7>}>, 'org.kde.okular.desktop': <{'position': <8>}>, 'org.gnome.seahorse.Application.desktop': <{'position': <9>}>, 'org.kde.spectacle.desktop': <{'position': <10>}>, 'org.kde.plasma-systemmonitor.desktop': <{'position': <11>}>, 'org.gnome.TextEditor.desktop': <{'position': <12>}>, 'vesktop.desktop': <{'position': <13>}>, 'xterm.desktop': <{'position': <14>}>, 'org.gnome.Epiphany.desktop': <{'position': <15>}>, 'org.gnome.Geary.desktop': <{'position': <16>}>, 'org.gnome.Calendar.desktop': <{'position': <17>}>, 'org.gnome.Music.desktop': <{'position': <18>}>}]
+disabled-extensions=['custom-hot-corners-extended@G-dH.github.com']
+enabled-extensions=['dash-to-panel@jderose9.github.com']
+favorite-apps=['brave-browser.desktop', 'code.desktop', 'vesktop.desktop', 'com.mitchellh.ghostty.desktop', 'org.kde.dolphin.desktop']
+welcome-dialog-last-shown-version='49.2'
+
+[shell/extensions/custom-hot-corners-extended/misc]
+keyboard-shortcuts=['next-workspace-current-mon <Shift><Super>s']
+show-osd-monitor-indexes=false
+supported-active-extensions=@as []
+
+[shell/extensions/custom-hot-corners-extended/monitor-0-top-left-6]
+ctrl=true
+
+[shell/extensions/custom-hot-corners-extended/monitor-1-top-left-6]
+ctrl=true
+
+[shell/extensions/dash-to-panel]
+animate-appicon-hover=true
+animate-appicon-hover-animation-extent={'RIPPLE': 4, 'PLANK': 4, 'SIMPLE': 1}
+animate-window-launch=true
+appicon-padding=4
+appicon-style='NORMAL'
+dot-color-dominant=false
+dot-color-override=false
+dot-position='BOTTOM'
+dot-size=2
+dot-style-focused='DASHES'
+dot-style-unfocused='DOTS'
+extension-version=72
+global-border-radius=1
+group-apps=true
+hotkeys-overlay-combo='TEMPORARILY'
+intellihide=false
+isolate-monitors=false
+panel-anchors='{"MSI-0000000000001":"MIDDLE","MSI-BA9H172302848":"MIDDLE"}'
+panel-element-positions='{"MSI-0000000000001":[{"element":"taskbar","visible":true,"position":"stackedTL"},{"element":"showAppsButton","visible":true,"position":"stackedBR"},{"element":"activitiesButton","visible":false,"position":"stackedBR"},{"element":"leftBox","visible":true,"position":"stackedTL"},{"element":"centerBox","visible":true,"position":"stackedBR"},{"element":"rightBox","visible":false,"position":"stackedBR"},{"element":"dateMenu","visible":false,"position":"stackedBR"},{"element":"systemMenu","visible":false,"position":"stackedBR"},{"element":"desktopButton","visible":false,"position":"stackedBR"}],"MSI-BA9H172302848":[{"element":"taskbar","visible":true,"position":"stackedTL"},{"element":"showAppsButton","visible":true,"position":"stackedBR"},{"element":"activitiesButton","visible":false,"position":"stackedBR"},{"element":"leftBox","visible":true,"position":"stackedTL"},{"element":"centerBox","visible":true,"position":"stackedBR"},{"element":"rightBox","visible":false,"position":"stackedBR"},{"element":"dateMenu","visible":false,"position":"stackedBR"},{"element":"systemMenu","visible":false,"position":"stackedBR"},{"element":"desktopButton","visible":false,"position":"stackedBR"}]}'
+panel-lengths='{"MSI-0000000000001":100,"MSI-BA9H172302848":100}'
+panel-positions='{"MSI-0000000000001":"LEFT","MSI-BA9H172302848":"LEFT"}'
+panel-side-margins=0
+panel-sizes='{"MSI-0000000000001":48,"MSI-BA9H172302848":48}'
+panel-top-bottom-margins=0
+panel-top-bottom-padding=0
+prefs-opened=false
+show-apps-icon-file='/home/theycreeper/Documents/nix-snowflake-colours.svg'
+show-apps-icon-side-padding=8
+show-apps-override-escape=true
+stockgs-force-hotcorner=false
+stockgs-keep-dash=false
+stockgs-keep-top-panel=true
+stockgs-panelbtn-click-only=false
+trans-border-custom-color='rgb(0,0,0)'
+trans-border-use-custom-color=true
+trans-border-width=8
+trans-panel-opacity=0.65000000000000002
+trans-use-border=false
+trans-use-custom-bg=true
+trans-use-custom-gradient=false
+trans-use-custom-opacity=true
+trans-use-dynamic-opacity=true
+window-preview-title-position='TOP'
+
+[shell/world-clocks]
+locations=@av []
