@@ -7,11 +7,14 @@
 alias ls='ls --color=auto'
 alias grep='grep --color=auto'
 alias la='ls -la'
+alias clear='clear && fastfetch'
 alias clr="clear"
 alias cma='chezmoi apply'
 alias nedit='sudo micro /etc/nixos/configuration.nix'
 alias napply='sudo nixos-rebuild switch --upgrade'
 alias ngc='sudo nix-collect-garbage -d --delete-older-than 10d'
+alias lff=$'lf -command \'set hidden true\'' 
+alias fastfetch='fastfetch --logo-type small --logo arch'
 
 fastfetch
 PS1='\w > '
