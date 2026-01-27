@@ -1,0 +1,13 @@
+brave-browser
+prismlauncher-bin
+vesktop
+ghostty
+lf
+fastfetch
+micro
+btop
+chezmoi
+tmux
+winboat-bin
+google-chrome
+telegram-desktop
